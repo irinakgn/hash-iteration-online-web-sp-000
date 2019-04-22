@@ -11,9 +11,9 @@ def happy_birthday(birthday_kids)
 end
 
 
-def select_winner(passengers)
-  passengers[0]
-end
+# def select_winner(passengers)
+#   passengers[0]
+# end
 
 def age_appropriate_birthday(birthday_kids)
   birthday_kids.each do |key, value|
