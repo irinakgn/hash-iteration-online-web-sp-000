@@ -11,6 +11,6 @@ def happy_birthday(birthday_kids)
 end
 
 
-def select_winner(birthday_kids)
-
+def select_winner(winners)
+  winners
 end
