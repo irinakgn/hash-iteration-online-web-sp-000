@@ -7,7 +7,7 @@
 # }
 
 def select_winner(passengers)
-  passengers.find  { |i| i % 5 == 0 and i % 7 == 0 }
+  passengers.find  { |i| i }
 end
 
 
